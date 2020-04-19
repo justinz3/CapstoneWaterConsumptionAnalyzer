@@ -1,0 +1,6 @@
+*.sqlite
+*.csv
+*.xlsx
+*.txt
+*.pdf
+*.idea
